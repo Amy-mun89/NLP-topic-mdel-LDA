@@ -24,3 +24,6 @@ For the visualization of LDA model, pyLDAvis package has been applied.
 The distance of each circle shows how different each topic is from each other. If the two circles overlapped, it indicates that these two topics are similar topics
 
 By clicking each circle, each words term frequency is shown as bar chart representation. The blue bar indicates overall term frequency and the red bar indicates estimated term frequency within the selected topic, and the bar chart is sorted by the red line
+LDA is an unsupervised machine learning model that find topics from the literature and one of the representative algorithms of topic modeling
+
+![image](https://user-images.githubusercontent.com/57762930/137379395-6e50c16b-cca1-4196-a22f-c206717cfc1f.png)
